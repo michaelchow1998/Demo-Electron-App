@@ -1,6 +1,6 @@
 # How to create demo Electron React App
 
-## Set up (Plz one by one excute)
+## Set up 
 ___
 ### Create-react-app
 
